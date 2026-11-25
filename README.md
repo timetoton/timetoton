@@ -1,1 +1,15 @@
-<p align="center"> <img src="banner.png" width="100%" alt="timetoton"> </p> <p align="center"> <img src="tile1.png" width="32%" alt=""> <img src="tile2.png" width="32%" alt=""> <img src="tile3.png" width="32%" alt=""> </p> <p align="center"> <img src="panorama.png" width="100%" alt=""> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=c,linux,git,bash,vim,cmake&theme=light" alt=""> </p>
+<div align="center">
+
+<img src="header.png" width="100%" alt="timetoton">
+
+⋆｡°✩ ━━━━━━━━━━━━━━━━ ✩°｡⋆
+
+<img src="photo.png" width="360" alt="">
+
+⋆｡°✩ ━━━━━━━━━━━━━━━━ ✩°｡⋆
+
+<img src="https://skillicons.dev/icons?i=c,linux,git,bash,vim,cmake&theme=dark" alt="">
+
+⋆｡°✩ ━━━━━━━━━━━━━━━━ ✩°｡⋆
+
+</div>
